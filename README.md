@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hirozak&count_private=true&show_icons=true&theme=react" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirozak&theme=react&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hirozak&theme=react" />
+
+<a href="https://github.com/hirozak">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hirozak&count_private=true&show_icons=true&theme=react" />
+</a>
+<a href="https://github.com/hirozak">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirozak&theme=react&layout=compact" />
+</a>
+<a href="https://github.com/hirozak">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hirozak&theme=react" />
+</a>
