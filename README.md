@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/hirozak">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hirozak&count_private=true&show_icons=true&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hzak2xx&count_private=true&show_icons=true&theme=react" />
 </a>
 <a href="https://github.com/hirozak">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirozak&theme=react&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzak2xx&theme=react&layout=compact" />
 </a>
 <a href="https://github.com/hirozak">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hirozak&theme=react" />
