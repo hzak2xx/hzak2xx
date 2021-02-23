@@ -22,7 +22,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hzak2xx&theme=dracula&layout=compact" />
 </a>
 
-<img height="150" src="https://github.com/hzak2xx/hzak2xx/blob/master/images/stat.svg" alt="Alternative Text"/>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
