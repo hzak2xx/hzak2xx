@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/hzak2xx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hzak2xx&count_private=true&show_icons=true&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hzak2xx&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/hzak2xx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzak2xx&theme=react&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzak2xx&theme=dracula&layout=compact" />
 </a>
 <a href="https://github.com/hzak2xx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hzak2xx&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hzak2xx&theme=dracula" />
 </a>
