@@ -1,12 +1,14 @@
 name: hzak2xx
 
-on:
-  repository_dispatch:
-    types: [test_trigger]
-  workflow_dispatch:
-  schedule:
-    # Runs at 4am JST
-    - cron: "30 19 * * *"
+# on:
+#   repository_dispatch:
+#     types: [test_trigger]
+#   workflow_dispatch:
+#   schedule:
+#     # Runs at 4am JST
+#     - cron: "30 19 * * *"
+
+on: push
 
 jobs:
   update-readme:
@@ -18,5 +20,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_PROJECTS: "False"
-          SHOW_PROFILE_VIEWS: "False"
+          SHOW_PROJECTS: False
+          SHOW_PROFILE_VIEWS: False
+          SHOW_LOC_CHART: False
