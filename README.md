@@ -7,7 +7,7 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C238%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C243%20hrs%202%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -34,17 +34,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               14 hrs 58 mins      █████████████████████████   98.83 % 
+TypeScript               15 hrs              █████████████████████████   98.83 % 
 XML                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 9 mins       █████████████████████████   100.00 % 
+VS Code                  15 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/03/2023 19:32:36 UTC
+ Last Updated on 18/03/2023 19:32:40 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hzak2xx)
