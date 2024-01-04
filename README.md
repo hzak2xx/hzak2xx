@@ -34,15 +34,14 @@ Sunday                   1134 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 8 mins        █████████████████████████   99.96 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+TypeScript               28 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 8 mins        █████████████████████████   100.00 % 
+VS Code                  28 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/01/2024 19:37:05 UTC
+ Last Updated on 04/01/2024 19:37:03 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hzak2xx)
