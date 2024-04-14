@@ -7,8 +7,6 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C232%20hrs%2056%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -45,7 +43,7 @@ VS Code                  28 hrs 11 mins      ███████████�
 ```
 
 
- Last Updated on 13/04/2024 19:36:30 UTC
+ Last Updated on 14/04/2024 21:56:29 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hzak2xx)
