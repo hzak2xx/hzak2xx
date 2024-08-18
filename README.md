@@ -7,7 +7,7 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C506%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C510%20hrs%2036%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -34,16 +34,16 @@ Sunday                   822 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 58 mins       █████████████████████████   99.11 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+TypeScript               5 hrs 14 mins       █████████████████████████   99.49 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/08/2024 19:36:36 UTC
+ Last Updated on 18/08/2024 19:36:51 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hzak2xx)
