@@ -7,7 +7,7 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C631%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C631%20hrs%2034%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -44,7 +44,7 @@ Cursor                   7 hrs 14 mins       ███████████�
 ```
 
 
- Last Updated on 01/11/2024 19:37:21 UTC
+ Last Updated on 02/11/2024 19:36:23 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hzak2xx)
