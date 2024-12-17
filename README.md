@@ -7,7 +7,7 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C659%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C661%20hrs%2027%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -43,7 +43,7 @@ Cursor                   2 hrs 4 mins        ███████████�
 ```
 
 
- Last Updated on 16/12/2024 19:40:47 UTC
+ Last Updated on 17/12/2024 19:38:34 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hzak2xx)
