@@ -7,6 +7,8 @@
 </br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C209%20hrs%2040%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -39,7 +41,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/08/2025 19:37:29 UTC
+ Last Updated on 31/08/2025 19:37:49 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hzak2xx)
