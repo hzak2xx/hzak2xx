@@ -7,8 +7,41 @@
 </br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C209%20hrs%2040%20mins-blue)
 
- Last Updated on 16/09/2025 19:40:27 UTC
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1630 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+🌆 Daytime                8540 commits        █████████░░░░░░░░░░░░░░░░   36.60 % 
+🌃 Evening                8969 commits        ██████████░░░░░░░░░░░░░░░   38.44 % 
+🌙 Night                  4194 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   3165 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Tuesday                  4061 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Wednesday                4155 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Thursday                 4109 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Friday                   3484 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Saturday                 2787 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Sunday                   1572 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 17/09/2025 19:38:21 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hzak2xx)
